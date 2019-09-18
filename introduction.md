@@ -24,9 +24,9 @@ Even the greatest games are upended by sequels or successors. The following is a
 
 Selections are separated into genres:
 
-- [Platformers](https://michaelstromer.nyc/timeless-gaming/platformers)
-- [Shooters](https://michaelstromer.nyc/timeless-gaming/shooters)
-- [Role Playing Games](https://michaelstromer.nyc/timeless-gaming/role-playing-games)
-- [Real Time Strategy](https://michaelstromer.nyc/timeless-gaming/real-time-strategy)
-- [Indie](https://michaelstromer.nyc/timeless-gaming/indie)
+- [Platformers](https://michaelstromer.nyc/books/timeless-gaming/platformers)
+- [Shooters](https://michaelstromer.nyc/books/timeless-gaming/shooters)
+- [Role Playing Games](https://michaelstromer.nyc/books/timeless-gaming/role-playing-games)
+- [Real Time Strategy](https://michaelstromer.nyc/books/timeless-gaming/real-time-strategy)
+- [Indie](https://michaelstromer.nyc/books/timeless-gaming/indie)
 

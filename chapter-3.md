@@ -12,7 +12,7 @@ Told in the context of fantasy worlds, Role Playing Games prompt players to "lev
 
 ![The Witcher 3](https://s3.amazonaws.com/prod-media.gameinformer.com/styles/full/s3/2019/01/18/b3a5e939/witcher3.jpg "The Witcher 3")
 
-### The Witcher 3: Wild Hunt
+## The Witcher 3: Wild Hunt
 
 Like many Role Playing Games, The Witcher begins with a quest. Geralt of Rivia is a professional demon hunter. In his travels, he searches for his missing apprentice, Ciri. 
 

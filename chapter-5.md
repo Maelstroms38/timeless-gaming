@@ -10,13 +10,13 @@ isFree: true
 
 Lesser known to wider gaming audiences, Indie games stand out for their lack of budget, team size and project scope. 
 
-### Cuphead
-
 ![Cuphead](
 https://s3.amazonaws.com/prod-media.gameinformer.com/styles/full/s3/2019/04/18/7bfc7c3c/cuphead.jpg "Cuphead") 
 
+## Cuphead
+
 > "Well, Cuphead and his pal Mugman... they like to roll the dice."
-- Cuphead theme
+> Cuphead theme
 
 Combining classic cartoon art style with brutal difficulty, Cuphead is an instant hit. The game's opening lulls players in, with cartoon cutscenes. Cuphead is akin to Mickey Mouse and the era of cartoons in the 1930's, also known as Rubber Hose Animation.
 

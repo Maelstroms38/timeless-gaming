@@ -12,7 +12,7 @@ Lock, stock and two smoking sticky grenades. Shooters are games that literally h
 
 ![Halo 3](https://www.gameinformer.com/s3/files/styles/body_default/s3/legacy-images/imagefeed/The%20Unexpected%20Surprises%20Of%20Replaying%20Halo%2C%20Halo%202%2C%20Halo%203%2C%20And%20Halo%204/TMCC-Halo-3-Floodgate-Advancing-Waters.jpg "Halo 3")
 
-### Halo 3
+## Halo 3
 
 Finish the fight. I remember buying the Xbox 360 just to play this game. Console shooters have competition, and yet this one takes the crown. 
 
